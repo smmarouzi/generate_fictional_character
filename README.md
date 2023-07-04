@@ -1,9 +1,9 @@
 # StoryCraft test
 
 ## Instructions to setup the project:
-`git clone https://github.com/thelucidproject/biomir.git`
+`git clone https://github.com/smmarouzi/generate_fictional_character.git`
 
-`cd biomir`
+`cd generate_fictional_character`
 
 `python -m venv venv`
 
@@ -18,7 +18,7 @@ download inswapper_a28.onnx from https://drive.google.com/file/d/1krOLgjW2tAPaqV
 `python main.py`
 
 ## About running main.py
-- you might need to press a key to close opened image windows
+- you might need to press a key to close opened image windows or close them by pressing X.
 - please enter a number whenever it is asked in terminal
     - a number between 1 to 13 to choose different customs
     - a number between 1 to 4 to choose different backgrounds
