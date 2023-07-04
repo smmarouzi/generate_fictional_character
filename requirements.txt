@@ -1,0 +1,6 @@
+rembg
+numpy
+opencv-python
+insightface
+matplotlib
+openai
