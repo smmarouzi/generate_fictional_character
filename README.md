@@ -1,4 +1,4 @@
-# StoryCraft test
+# 
 
 ## Instructions to setup the project:
 `git clone https://github.com/smmarouzi/generate_fictional_character.git`
