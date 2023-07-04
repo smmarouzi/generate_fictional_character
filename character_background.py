@@ -49,9 +49,7 @@ class FictionalEnvironment:
         with open(background_image, 'rb') as f:
             image_data = f.read()
         background_image = Image.open(BytesIO(image_data))
-        """
-        foreground_img = Image.open(final_image_path)
-        """
+        
         with open(final_image_path, 'rb') as f:
             image_data = f.read()
         foreground_img = Image.open(BytesIO(image_data))

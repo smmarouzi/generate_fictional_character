@@ -11,7 +11,7 @@
 
 `pip install -r requirements.txt`
 
-download deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 from ... and add it to models/remove_background directory
+download deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 from https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 and add it to models/remove_background directory
 
 download inswapper_a28.onnx from https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view and add it to models/face_swapper directory
 
